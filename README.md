@@ -1,1 +1,2 @@
-# InQuizitive
+-  Building a web/mobile trivia app allowing users to compete against each other in real-time by answering multiple-choice questions on various topics. 
+-  The app will cover a wide range of categories, including general knowledge, entertainment, science, sports, and more.
